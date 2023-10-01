@@ -1,0 +1,9 @@
+Where is your EDA in the homework. Just precitions are not enough
+
+where you got these letters ['a', 'e', 'i', 'o', 'u']. If you didn't do EDA. 
+And, professor EDA is not enough. you have to do your own EDA
+
+You can try the lab in better way
+
+hw: 50
+lab: 90
