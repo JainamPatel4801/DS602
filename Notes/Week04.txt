@@ -1,0 +1,5 @@
+Q5) Already professor did the train and test split with the random state = 100, Why again you are splitting with random state = 42
+    It will change the ouptut value. It's for evaluation don't change random state.
+
+hw: 65
+lab: 100
