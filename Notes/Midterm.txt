@@ -1,0 +1,4 @@
+hw: 28
+
+Presentation is from localhost. Very shallow EDA, no pipeline used,
+no hyper parameter tuning, other features other than text is not touched, why are they not used? Markdown needs work. This is not properly done!
